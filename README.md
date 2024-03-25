@@ -14,7 +14,7 @@
 #### _Создание_
 
 
-```bash
+``` bash
 cd ~
 touch README.md
 ```
@@ -24,7 +24,7 @@ touch README.md
 #### _Удаление_
 
 
-```bash
+``` bash
 cd ~
 rm README.md
 ```
